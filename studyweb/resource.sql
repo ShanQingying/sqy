@@ -1,0 +1,3 @@
+INSERT INTO studyweb.resource (id, link, title, description, category, time, views) VALUES (1, 'https://example.com/resource1', 'Sample Resource', 'This is a description of the sample resource.', 'ebook', '2024-10-12 00:00:00', 10);
+INSERT INTO studyweb.resource (id, link, title, description, category, time, views) VALUES (2, 'https://example.com/resource2', 'New Resource', 'This is a description of the new resource.', 'software', '2024-10-12 18:22:30', 1);
+INSERT INTO studyweb.resource (id, link, title, description, category, time, views) VALUES (3, 'https://example.com/resource3', 'New Resource again', 'This is a description of the new resource.', 'software', '2024-10-13 19:59:56', 1);
